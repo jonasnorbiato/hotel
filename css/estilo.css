@@ -1,0 +1,105 @@
+.teste{
+	float: right;
+}
+
+.botao{
+	margin:1%;
+}
+
+.entrar{
+	display: inline;
+	float: right;
+}
+
+.res{
+	text-align: center;
+	margin-top: 6%;
+	margin-bottom: 2%;
+}
+
+.info{
+
+	text-align: center;
+	padding-left: 20%;
+	padding-right: 20%;
+
+}
+
+.result{
+
+	text-align: center;
+	font-size: 100%;
+	
+
+}
+
+.hotel{
+	padding:5%;
+	text-align: center;
+	background: #E0FFFF;
+	
+}
+
+.localizacao{
+	padding:5%;
+	text-align: center;
+	background: #FAF0E6;
+	
+}
+
+.fotos{
+	padding: 5%;
+	background: black;
+	color: #ffffff;
+	text-align: center;
+}
+
+.tamanho{
+	height: 190px;
+	width: 355px;
+	margin:1%;
+}
+
+.tamanho_img{
+	height: 30000px;
+	width: 3000px;
+	margin: 1%;
+}
+
+.tamanho2{
+	
+	height: 400px;
+	width: 600px;
+	margin:1%;	
+}
+
+a{
+	margin:1%;
+}
+
+.direita{
+	text-align: left;
+	margin-left: 6%;
+}
+
+.reserva{
+	text-align: center;
+	
+}
+.reserva  td{
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left : 2%;
+	padding-right: 2%;
+
+}
+
+ .reserva  th{
+ 	text-align: center;
+	padding: 2%;
+}
+
+.info2{
+	padding-left: 1%;
+	padding-right: 1%;
+}
